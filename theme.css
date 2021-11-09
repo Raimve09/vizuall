@@ -1,24 +1,19 @@
-/**
- * Owl Carousel v2.3.4
- * Copyright 2013-2018 David Deutsch
- * Licensed under: SEE LICENSE IN https://github.com/OwlCarousel2/OwlCarousel2/blob/master/LICENSE
- */
-        .screen .item{
+ .screen .item{
   background-color:#5fba7d;
 }
 
 .phone{
-    background-image: url(https://i.imgur.com/nuBhdgl.png);
-    width: 208px !important;
-    height: 396px;
-    background-position: -12px 0;
+    background-image: url(https://i.imgur.com/d70yBB1.png);
+    width: 320px !important;
+    height: 620px;
+    background-position: -25px 0;
 }
 
 .no-js .owl-carousel, .owl-carousel.owl-loaded {
     position: relative;
-    top: 43px;
-    width: 176px;
-    left: 17px;
+    top: 48px;
+    width: 278px;
+    left: 20px;
     height: 100%;
 }
 
@@ -31,7 +26,7 @@
 }
 .owl-dots{
   position: absolute;
-  top:350px;
+  top:570px;
   right:15%;
   left:15%;
 
